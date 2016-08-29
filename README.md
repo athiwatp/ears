@@ -12,7 +12,7 @@ Guides
 - Apollo Github API Backend, SSR : https://github.com/apollostack/GitHunt-API
 - Apollo Github API Frontend : https://github.com/apollostack/GitHunt-React
 - Github API star history : https://github.com/timqian/star-history
-- Gihub API schema : https://github.com/clayallsopp/graphqlhub
+- Github API schema : https://github.com/clayallsopp/graphqlhub
 
 Inspire
 - Google Font : https://fonts.google.com/
