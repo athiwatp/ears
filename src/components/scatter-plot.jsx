@@ -1,17 +1,18 @@
 import React        from 'react';
-import d3           from 'd3';
+import { scaleLinear } from "d3-scale";
+import { max } from "d3-array";
 import DataCircles  from './data-circles';
 import XYAxis       from './x-y-axis';
 
-const xMax   = (data)  => d3.max(data, (d) => d[0]);
-const yMax   = (data)  => d3.max(data, (d) => d[1]);
+const xMax = (data) => max(data, (d) => d[0]);
+const yMax = (data) => max(data, (d) => d[1]);
 const xScale = (props) => {
-  return d3.scale.linear()
+  return scaleLinear()
     .domain([0, xMax(props.data)])
     .range([props.padding, props.width - props.padding * 2]);
 };
 const yScale = (props) => {
-  return d3.scale.linear()
+  return scaleLinear()
     .domain([0, yMax(props.data)])
     .range([props.height - props.padding, props.padding]);
 };
