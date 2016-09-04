@@ -4,12 +4,10 @@ Experimental project for Report as a Services.
 ## Starter Kits
 - Upstream of Saturn : https://github.com/erikras/react-redux-universal-hot-example
 - Saturn : https://github.com/apollostack/saturn
+- Preact : https://github.com/developit/preact-boilerplate
 
 ## Stacks
-- Chartist : https://github.com/gionkunz/chartist-js
-- Chartist Node : https://github.com/panosoft/node-chartist
-- Chartist React : https://github.com/fraserxu/react-chartist
-- Chartist Preact : https://github.com/katopz/react-chartist-example
+- D3 : https://github.com/freddyrangel/playing-with-react-and-d3/tree/master/finished
 
 ## Frontend
 - Apollo React Native : https://github.com/nnance/f8app-apollo
