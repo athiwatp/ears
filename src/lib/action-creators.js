@@ -1,6 +1,4 @@
-export const randomizeData = (state) => {
-  return {
-    type: 'RANDOMIZE',
-    state
-  }
-}
+export const randomizeData = (state) => ({
+  type: 'RANDOMIZE',
+  state
+});
