@@ -8,6 +8,7 @@
   "rules": {
     "comma-dangle": 0,
     "max-len": 0,
+    "indent": [2, 2],
     "jsx-quotes": [2, "prefer-single"],
     "generator-star-spacing": 0,
     "react/jsx-no-bind": 0,
