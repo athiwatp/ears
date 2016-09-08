@@ -19,7 +19,7 @@
     "webpack"
   ],
   "license": "MIT",
-  "author": "Todsaporn Banjerdkit <katopz@gmail.comnc>",
+  "author": "Todsaporn Banjerdkit <katopz@gmail.com>",
   "devDependencies": {
     "autoprefixer": "^6.4.0",
     "babel": "^6.5.2",
