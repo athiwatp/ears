@@ -31,6 +31,8 @@ Ref : https://github.com/blog/2268-top-open-source-launches-on-github
 - Gathered from [queries](https://github.com/bkeepers/github-data/blob/master/most-starred-releases/query.sql) against the [GitHub Archive dataset available on Google BigQuery](https://www.githubarchive.org/#bigquery)
 - Changelog Nightly (top new and starred repositories on GitHub) : https://github.com/thechangelog/nightly
 - Convert to JSON format that contain normalize value.
+- https://github.com/timqian/star-history
+
 - Import to [Reindex](https://www.reindex.io/docs/importing-data/)
 
 ## Inspire
