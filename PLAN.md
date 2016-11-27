@@ -35,33 +35,3 @@
 | Connect       | [Filters]           |          Hi : B |
 | Subscriptions | [Subscribe]         | ----------------|
 | About         | [Type]              | __________[send]|
-
-# v2
-
-### Users
-- [ ] ES6 Quiz
-- [ ] Developer Rank Badge
-- [ ] Developer HighScore Board
-```
-E|, ||, |||, IV, V, VI, VII, VIII, IX, X
-```
-
-### Ads
-- [ ] Links Ads
-- [ ] Payments systems
-
-# v3
-
-### Users
-- [ ] React Quiz
-```
-R|, ||, |||, IV, V, VI, VII, VIII, IX, X
-```
-
-# v4
-
-### Users
-- [ ] GraphQL Quiz
-```
-G|, ||, |||, IV, V, VI, VII, VIII, IX, X
-```
