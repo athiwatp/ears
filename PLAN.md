@@ -4,6 +4,7 @@
 - [x] Apollo Githunt
 - [x] Basic GraphQL : Query, Mutaion
 - [ ] Advance GraphQL : Fragments, Opimistic response
+- [ ] https://github.com/clauderic/react-sortable-hoc
 
 ## Backends
 - [x] GraphQL -> NodeJS -> Redis -> MongoDB
@@ -39,7 +40,11 @@
 
 ### Users
 - [ ] ES6 Quiz
-- [ ] Developer Rank
+- [ ] Developer Rank Badge
+- [ ] Developer HighScore Board
+```
+E|, ||, |||, IV, V, VI, VII, VIII, IX, X
+```
 
 ### Ads
 - [ ] Links Ads
@@ -48,4 +53,15 @@
 # v3
 
 ### Users
+- [ ] React Quiz
+```
+R|, ||, |||, IV, V, VI, VII, VIII, IX, X
+```
+
+# v4
+
+### Users
 - [ ] GraphQL Quiz
+```
+G|, ||, |||, IV, V, VI, VII, VIII, IX, X
+```
