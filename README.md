@@ -1,5 +1,5 @@
 # ears
-Experimental project for Report as a Services.
+Experimental project for Stack analysis.
 
 ## Starter Kits
 - Upstream of Saturn : https://github.com/erikras/react-redux-universal-hot-example
@@ -43,6 +43,7 @@ Ref : https://github.com/blog/2268-top-open-source-launches-on-github
 - http://www.jeromecukier.net/blog/2011/08/11/d3-scales-and-color/
 
 ## Reference
+- http://githut.info/
 - https://github.com/StarRatio/star-ratio
 
 ## Success story
