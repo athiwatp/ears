@@ -37,14 +37,17 @@ Ref : https://github.com/blog/2268-top-open-source-launches-on-github
 
 ## Raw
 - Google Font : https://fonts.google.com/
-- https://changelog.com/sponsorship
-- https://github.com/clauderic/react-infinite-calendar
 - http://bl.ocks.org/swingley/b5fb2cdf5532581c26b0
 - http://www.jeromecukier.net/blog/2011/08/11/d3-scales-and-color/
 
 ## Reference
+- https://stackshare.io/
+- https://octoverse.github.com/
 - http://githut.info/
 - https://github.com/StarRatio/star-ratio
 
 ## Success story
 - https://techcrunch.com/2016/11/07/triplebyte-resuls/
+
+## Income
+- https://opencollective.com/#howitworks
