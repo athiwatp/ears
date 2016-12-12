@@ -32,8 +32,8 @@ Ref : https://github.com/blog/2268-top-open-source-launches-on-github
 - Changelog Nightly (top new and starred repositories on GitHub) : https://github.com/thechangelog/nightly
 - Convert to JSON format that contain normalize value.
 - https://github.com/timqian/star-history
-
 - Import to [Reindex](https://www.reindex.io/docs/importing-data/)
+- participation as SVG : https://github.com/developit/preact/graphs/participation?h=28&type=sparkline&w=155
 
 ## Raw
 - Google Font : https://fonts.google.com/
