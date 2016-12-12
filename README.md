@@ -34,6 +34,8 @@ Ref : https://github.com/blog/2268-top-open-source-launches-on-github
 - https://github.com/timqian/star-history
 - Import to [Reindex](https://www.reindex.io/docs/importing-data/)
 - participation as SVG : https://github.com/developit/preact/graphs/participation?h=28&type=sparkline&w=155
+- Get element inside SVG by xpath or string : https://gist.github.com/katopz/c2b030761fde67cf854f1b3a733723c1
+- Web Crawler/Spider for NodeJS + server-side jQuery : https://github.com/bda-research/node-crawler
 
 ## Raw
 - Google Font : https://fonts.google.com/
